@@ -9,3 +9,7 @@
 * Criação do CSS
 * Estilizando a e colocando cor
 * inicio da Responsabilidade
+
+# Dia 3 28/01/2024
+* responsibilidade do site no css
+* javascript basico no botão
